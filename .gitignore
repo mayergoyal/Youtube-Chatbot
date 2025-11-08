@@ -1,0 +1,4 @@
+*.txt
+*.vtt
+ytenv
+.env
